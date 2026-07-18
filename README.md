@@ -83,17 +83,17 @@ The goal of this project is to identify the key factors contributing to customer
 
 ## 📷 Dashboard Preview
 
-### Executive Overview
+### 📊 Executive Overview
 
-*(Insert Screenshot Here)*
+![Executive Overview](Executive_Overview.png)
 
-### Customer Demographics
+### 👥 Customer Demographics
 
-*(Insert Screenshot Here)*
+![Customer Demographics](Customer_Demographics.png)
 
-### Tenure & Revenue Analysis
+### 💰 Tenure & Revenue Analysis
 
-*(Insert Screenshot Here)*
+![Tenure and Revenue Analysis](Tenure_and_Revenue.png)
 
 ---
 
